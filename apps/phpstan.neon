@@ -1,0 +1,10 @@
+# To run: .\vendor\bin\phpstan analyse
+includes:
+    - ./vendor/nunomaduro/larastan/extension.neon
+
+parameters:
+    paths:
+        - app/
+
+    # Level 9 is the highest level
+    level: 1
