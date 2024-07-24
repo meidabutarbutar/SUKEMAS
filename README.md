@@ -46,10 +46,3 @@ No.	Software	        Spesifikasi
 5.	Node.js	            Node.js v18.16.0
 
 
-# Contributors
-+ 12S20003 - Marcel Joshua Simanjuntak (@marceljsh)
-+ 12S20007 - Rufina Aprilina Sitorus (@12S20007-Rufina)
-+ 12S20026 - Mastuari Octafina Sirumapea (@Mastuariotf26)
-+ 12S20030 - Lamsihar Siahaan (@lamsiharsiahaan)
-+ 12S20041 - Theresia Agatha Silas Siahaan (@theresiasiahaan12S20041)
-+ 12S20049 - Meida Enggelica Butarbutar (@meidabutarbutar)
