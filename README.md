@@ -1,8 +1,11 @@
 # PSI-2021ge-GG Project Name
 Please read [RULES.md](RULES.md).
 
-## General Discription
-ttg deskripsi
+#UI
+![loginsuk](https://github.com/user-attachments/assets/3e21b858-801c-443c-ba2a-dbf36babb849)
+![laytanan](https://github.com/user-attachments/assets/d1621b26-8121-4a8d-ac53-ca29d24dd116)
+![login](https://github.com/user-attachments/assets/23cbafc6-ddd4-4994-8679-c43fb909a897)
+
 
 ## Features
 Berikut beberapa fitur utama yang terdapat pada sistem yang akan dikembangkan, yaitu:
@@ -24,7 +27,8 @@ Berikut beberapa fitur utama yang terdapat pada sistem yang akan dikembangkan, y
 ## Architectural Design
 gambarnya.
 ## Database Design
-image.png
+
+![ClassDiagram sukemas](https://github.com/user-attachments/assets/b2a5e965-bab1-418a-bb31-2af77b5ebdb9)
 
 ## Installation Guide
 The Toba District Local Government currently does not use Customer Satisfaction Index (CSI) as part of its quality standards. This may be due to the lack of facilities or tools to distribute and collect questionnaires from service users, as well as the absence of mechanisms for processing questionnaire data. This issue then leads to a lack of knowledge about objective service quality, which in turn affects efforts to improve service quality for the community. On the other hand, in the second semester of the 2022/2023 academic year, students of the Bachelor's Degree Program in Information Systems have the opportunity to develop an information system that can solve a real problem in their surroundings. This provides an opportunity to address issues related to measuring the quality of public services as a case study, with proposed solutions in the form of an information system.
